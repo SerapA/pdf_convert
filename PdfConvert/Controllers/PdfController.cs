@@ -44,6 +44,9 @@ namespace PdfConvert.Controllers
                                     "<div style = \"text-align: center; margin-top:16px;\">" +
                                         "<p style=\"font-family: 'MICR'; font-size: 30px;\"> 235 384756  13425346 9877</p>" +
                                     "</div>" +
+                                    "<div style = \"text-align: center; margin-top:16px;\">" +
+                                        "<p style=\"font-size: 30px;\"> This line doesn not have a font specified</p>" +
+                                    "</div>" +
                                 "</body>" +
                             "</html>";
 
